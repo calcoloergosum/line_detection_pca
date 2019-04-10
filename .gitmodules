@@ -1,0 +1,3 @@
+[submodule "unionfind"]
+	path = unionfind
+	url = git@github.com:deehzee/unionfind.git
